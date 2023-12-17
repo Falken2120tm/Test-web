@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background-image: url(br.png);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.anketa{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+
+.anketa-image{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.anketa-title{
+    font-size: 28px;
+    text-align: center;
+    color:rgb(112, 64, 78);
+}
+
+.anketa-text{
+    font-size: 18px;
+}
+
+.anketa-subtitle{
+    font-size: 24px;
+    text-align: center;
+    color:rgb(178, 103, 125);
+}
+
+.anketa-list{
+    font-size: 18px;
+    padding-left: 0;
+    list-style-position: inside;
+
+}
+
+.ggg{
+    margin-left: 200px;
+    margin-top: -30px;
+}
